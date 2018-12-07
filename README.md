@@ -1,2 +1,5 @@
 # machine-running
-MLP/E.N/F.B.N
+1. MLP
+2. Evolutionary Network
+3. Fuzzy bayesian
+4. Etc
